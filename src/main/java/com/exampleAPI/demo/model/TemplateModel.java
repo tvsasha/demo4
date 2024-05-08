@@ -8,5 +8,6 @@ public class TemplateModel {
     }
     public void  setMessage(string message) {
         this.message = message;
+        //kl
     }
 }
